@@ -5,7 +5,7 @@ Resource  ../Resources/CommonWeb.robot
 Test Setup  Begin Web Test
 Test Teardown  End Web Test
 
-# robot -d results level1/tests/Front_Office.robot
+# robot   -d results C:\PyCharmProjects\level1\tests\Front_Office.robot
 
 *** Variables ***
 ${BROWSER} =  firefox
